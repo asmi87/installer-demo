@@ -1,0 +1,13 @@
+1326174012
+Application	C:/Sites/install-demo/config/application.rb	  class Application 
+ApplicationController	C:/Sites/install-demo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/install-demo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/install-demo/test/performance/browsing_test.rb	class BrowsingTest 
+InstallDemo	C:/Sites/install-demo/config/application.rb	module InstallDemo
+TestCase	C:/Sites/install-demo/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	C:/Sites/install-demo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	C:/Sites/install-demo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	C:/Sites/install-demo/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	C:/Sites/install-demo/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	C:/Sites/install-demo/app/controllers/welcome_controller.rb	  def index
+test_homepage	C:/Sites/install-demo/test/performance/browsing_test.rb	  def test_homepage
